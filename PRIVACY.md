@@ -101,7 +101,7 @@ We may update this privacy policy from time to time. We will notify you of signi
 
 If you have questions about this privacy policy or your data, contact us:
 
-**Email:** support@taskmate-app.com  
+**Email:** alexianofedrucelli@gmail.com  
 **GitHub:** [TaskMate Support](https://github.com/alexianofedrucelli/taskmate-support)
 
 ## Cookie Policy
