@@ -5,7 +5,7 @@ Welcome to TaskMate Planner support! We're here to help.
 ## 📧 Contact Support
 
 For questions, bug reports, or feature requests, please email:  
-**alexianofedrucelli@gmail.com*
+*alexianofedrucelli@gmail.com*
 
 ## ❓ Frequently Asked Questions
 
@@ -58,7 +58,7 @@ Yes! Owners can transfer ownership to another team member:
 3. Select the new owner
 
 ### How do I delete my account?
-Email us at **support@taskmate-app.com** and we'll help you delete your account and all associated data.
+Email us at *alexianofedrucelli@gmail.com* and we'll help you delete your account and all associated data.
 
 ## 🐛 Report a Bug
 
@@ -68,7 +68,7 @@ Found a bug? Please email us with:
 - Steps to reproduce
 - Screenshots (if applicable)
 
-Send to: **support@taskmate-app.com**
+Send to: *alexianofedrucelli@gmail.com*
 
 ## 🔐 Privacy
 
