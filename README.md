@@ -5,7 +5,7 @@ Welcome to TaskMate Planner support! We're here to help.
 ## 📧 Contact Support
 
 For questions, bug reports, or feature requests, please email:  
-**support@taskmate-app.com** *(replace with your real email)*
+**alexianofedrucelli@gmail.com*
 
 ## ❓ Frequently Asked Questions
 
