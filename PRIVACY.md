@@ -120,7 +120,7 @@ California residents have additional rights under the CCPA:
 - Right to opt-out of sale of personal information (we don't sell data)
 - Right to non-discrimination
 
-To exercise these rights, email us at support@taskmate-app.com
+To exercise these rights, email us at alexianofedrucelli@gmail.com
 
 ## European Users (GDPR)
 
