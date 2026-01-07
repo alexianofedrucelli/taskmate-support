@@ -69,7 +69,7 @@ You can delete your account directly from the app:
 
 This will permanently delete your account and all associated data. This action cannot be undone.
 
-If you need assistance, email us at alexianofedrucelli@gmail.com
+If you need assistance, email us at *alexianofedrucelli@gmail.com*
 
 ## 🐛 Report a Bug
 
