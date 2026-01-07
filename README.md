@@ -58,7 +58,18 @@ Yes! Owners can transfer ownership to another team member:
 3. Select the new owner
 
 ### How do I delete my account?
-Email us at *alexianofedrucelli@gmail.com* and we'll help you delete your account and all associated data.
+You can delete your account directly from the app:
+
+1. Open TaskMate Planner
+2. Tap your profile icon (top right)
+3. Select "Settings"
+4. Scroll to the "Account" section
+5. Tap "Delete Profile..."
+6. Type "DELETE" to confirm
+
+This will permanently delete your account and all associated data. This action cannot be undone.
+
+If you need assistance, email us at alexianofedrucelli@gmail.com
 
 ## 🐛 Report a Bug
 
